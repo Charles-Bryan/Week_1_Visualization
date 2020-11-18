@@ -3,13 +3,13 @@ Python code ccompanying Week 1 blog post for visualizations. This week's post is
 [Blog Post](http://discoveringdatascience.com/index.php/2020/07/27/week-1-the-line-chart/)
 
 ## Progression of Line Plots
-![Initial Attempt](Initial Attempt.png)
+![Initial Attempt](Initial_Attempt.png)
 
 ![Interpolation](Interpolation.png)
 
 ![Smoothing](Smoothing.png)
 
-![Sexy Seaborn](Sexy Seaborn.png)
+![Sexy Seaborn](Sexy_Seaborn.png)
 
-![Video Seaborn](Video Seaborn.png)
+![Video Seaborn](Video_Seaborn.png)
 This one is actually a video on the Blog.
