@@ -12,4 +12,5 @@ Python code ccompanying Week 1 blog post for visualizations. This week's post is
 ![Sexy Seaborn](Sexy_Seaborn.png)
 
 ![Video Seaborn](Video_Seaborn.png)
+  
 This one is actually a video on the Blog.
